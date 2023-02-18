@@ -1,0 +1,65 @@
+{
+  "regular_taxi": [
+    {
+      "image_url": "https://dt5rjsxbvck7d.cloudfront.net/eyJidWNrZXQiOiJtdHZkZWFsZXJhcHB1cyIsImtleSI6Ijk5MDE3My82MTBlNWM4MmYyMzIzMDcyNDY1N2RiNTItMjAyMS0wOS0yMy0xNS0zNS0zMy9pbWFnZTIuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo2NjksImhlaWdodCI6NDU5LCJmaXQiOiJmaWxsIn19fQ==",
+      "car_name": "Swift Dzire",
+      "price": "2200",
+      "extra_km": "11",
+      "extra_hours": "350",
+      "night_charges": "250",
+      "out_station": "13",
+      "available": true,
+      "id": 1
+    },
+    {
+      "image_url": "https://www.team-bhp.com/sites/default/files/styles/check_extra_large_for_review/public/20211127_171255.jpg",
+      "car_name": "Maruti Suzuki Ciaz",
+      "price": "2300",
+      "extra_km": "11",
+      "extra_hours": "350",
+      "night_charges": "250",
+      "out_station": "13",
+      "available": true,
+      "id": 2
+    }
+  ],
+  "luxury_taxi": [
+    {
+      "image_url": "https://img.indianautosblog.com/2020/10/22/2020-audi-a6-front-3-quarters-2978.jpg",
+      "car_name": "Audi A6",
+      "price": "35000",
+      "extra_km": "6",
+      "extra_hours": "350",
+      "night_charges": "250",
+      "out_station": "6",
+      "available": true,
+      "id": "1"
+    }
+  ],
+  "bus_traveler": [
+    {
+      "image_url": "https://punetours.com/wp-content/uploads/2021/01/26-seater-travller.jpg",
+      "car_name": "Traveler",
+      "price": "20000",
+      "extra_km": "15",
+      "extra_hours": "350",
+      "night_charges": "250",
+      "out_station": "15",
+      "available": true,
+      "id": "1"
+    }
+  ],
+  "wedding_taxi": [
+    {
+      "image_url": "https://www.tour70.com/wp-content/uploads/2022/10/Mercedes-on-rent-in-Patna-for-wedding-marriage-1024x768.jpg",
+      "car_name": "Mercedes XLS Wedding",
+      "price": "40000",
+      "extra_km": "6",
+      "extra_hours": "350",
+      "night_charges": "250",
+      "out_station": "6",
+      "available": true,
+      "id": "1"
+    }
+  ]
+}

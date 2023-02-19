@@ -61,5 +61,25 @@
       "available": true,
       "id": "1"
     }
+  ],
+  "trips": [
+    {
+      "id": 1,
+      "h2": "Our Special Tour Package to Nepal",
+      "p": "Nepal is one of those unique places which holds the experience of both thrill and peace. If you are ready to surprise yourself, then Nepal is the place which you have been looking to visit for so many years. The home to world’s highest mountain, Mt. Everest and highest bungee jumping point, Nepal is surely the rarest wonders of the world.",
+      "img": "https://images.unsplash.com/photo-1550642249-6e5605421172?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=435&q=80"
+    },
+    {
+      "id": 2,
+      "h2": "Trip to Ayodhya",
+      "p": "Ayodhya is an ancient and holy city of India. It is located on the banks of the holy river Saryu in Uttar Pradesh. Ayodhya is the birthplace of Lord Ram and it is the seventh holiest city in India. It is also a most disputed place due to Ram Mandir. The Great thing is that the construction of Ram Mandir has been started after the judgment of the Supreme Court and it will be completed very soon and open for all.",
+      "img": "https://images.hindustantimes.com/img/2022/10/23/550x309/38f10af4-529f-11ed-9b0c-d1cd99c27b9b_1666515985947.jpg"
+    },
+    {
+      "id": 3,
+      "h2": "Jim Corbett National Park Taxi Service",
+      "p": "If you are wildlife love and always love watching the wildlife documentaries on NGC and Discovery then you should definitely make a plan to the amazing Jim Corbett National Park. If you are currently staying in New Delhi or a Delhite then you should definitely visit Jim Corbett National Park and fulfill your wildlife fantasies.",
+      "img": "https://images.unsplash.com/photo-1475027810313-fda7c2c8e71a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+    }
   ]
 }

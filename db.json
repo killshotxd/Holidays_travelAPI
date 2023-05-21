@@ -54,32 +54,109 @@
       "out_station": "14",
       "available": true,
       "id": 5
+    },
+    {
+      "image_url": "https://5.imimg.com/data5/MT/HT/SS/SELLER-43949074/toyota-innova-rental-service-500x500.jpg",
+      "car_name": "Toyota Innova",
+      "price": "3000",
+      "extra_km": "15",
+      "extra_hours": "230",
+      "night_charges": "300",
+      "out_station": "15",
+      "available": true,
+      "id": 6
+    },
+    {
+      "image_url": "https://5.imimg.com/data5/MT/HT/SS/SELLER-43949074/toyota-innova-rental-service-500x500.jpg",
+      "car_name": "Toyota Innova Crysta",
+      "price": "3600",
+      "extra_km": "18",
+      "extra_hours": "260",
+      "night_charges": "300",
+      "out_station": "18",
+      "available": true,
+      "id": 7
     }
   ],
   "luxury_taxi": [
     {
-      "image_url": "https://img.indianautosblog.com/2020/10/22/2020-audi-a6-front-3-quarters-2978.jpg",
-      "car_name": "Audi A6",
-      "price": "35000",
-      "extra_km": "6",
+      "image_url": "https://www.team-bhp.com/forum/attachments/indian-car-scene/2334594d1657941521-10-bmw-m-m-sport-special-editions-launch-india-9e89c6d5e543444587161084540c22ee.jpeg",
+      "car_name": "BMW",
+      "price": "25000",
+      "extra_km": "5",
       "extra_hours": "350",
-      "night_charges": "250",
+      "night_charges": "300",
       "out_station": "6",
       "available": true,
       "id": "1"
+    },
+    {
+      "image_url": "https://www.team-bhp.com/forum/attachments/indian-car-scene/2334594d1657941521-10-bmw-m-m-sport-special-editions-launch-india-9e89c6d5e543444587161084540c22ee.jpeg",
+      "car_name": "Audi",
+      "price": "20000",
+      "extra_km": "5",
+      "extra_hours": "350",
+      "night_charges": "300",
+      "out_station": "6",
+      "available": true,
+      "id": "2"
     }
   ],
   "bus_traveler": [
     {
-      "image_url": "https://punetours.com/wp-content/uploads/2021/01/26-seater-travller.jpg",
-      "car_name": "Traveler",
-      "price": "20000",
-      "extra_km": "15",
+      "image_url": "https://5.imimg.com/data5/UM/JS/FX/SELLER-3500997/12-seater-tempo-traveller-on-rental-in-bhopal-m-p--500x500.jpg",
+      "car_name": "Traveler 12 Seater",
+      "price": "A/C to Distance",
+      "extra_km": "28",
       "extra_hours": "350",
-      "night_charges": "250",
-      "out_station": "15",
+      "night_charges": "500",
+      "out_station": "28",
       "available": true,
       "id": "1"
+    },
+    {
+      "image_url": "https://delhirentcar.com/cars/15-seater-tempo-traveller1.jpg",
+      "car_name": "Traveler 15 Seater",
+      "price": "A/C to Distance",
+      "extra_km": "35",
+      "extra_hours": "350",
+      "night_charges": "500",
+      "out_station": "35",
+      "available": true,
+      "id": "2"
+    },
+    {
+      "image_url": "https://www.patratravels.com/images/vehicles/tempo-traveller/17-seater-force-traveller-2.jpg",
+      "car_name": "Traveler 17 Seater",
+      "price": "A/C to Distance",
+      "extra_km": "40",
+      "extra_hours": "350",
+      "night_charges": "500",
+      "out_station": "40",
+      "available": true,
+      "id": "3"
+    },
+    {
+      "image_url": "https://www.traveltoindia.org/images/tempo/18-seater-2x1.jpeg",
+      "car_name": "Traveler 20 Seater",
+      "price": "A/C to Distance",
+      "extra_km": "43",
+      "extra_hours": "350",
+      "night_charges": "500",
+      "out_station": "43",
+      "available": true,
+      "id": "4"
+    },
+    {
+      "image_url": "https://www.patratravels.com/images/vehicles/tempo-traveller/26-seater-tempo-traveller-2.jpg",
+      "car_name": "Traveler 26 Seater",
+      "price": "A/C to Distance",
+      "extra_km": "43",
+      "extra_hours": "350",
+      "night_charges": "500",
+      "out_station": "43",
+      "available": true,
+      "id": "5"
     }
   ],
   "wedding_taxi": [

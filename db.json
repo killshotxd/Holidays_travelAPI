@@ -5,22 +5,55 @@
       "car_name": "Swift Dzire",
       "price": "2200",
       "extra_km": "11",
-      "extra_hours": "350",
-      "night_charges": "250",
-      "out_station": "13",
+      "extra_hours": "120",
+      "night_charges": "300",
+      "out_station": "11",
       "available": true,
       "id": 1
     },
     {
       "image_url": "https://www.team-bhp.com/sites/default/files/styles/check_extra_large_for_review/public/20211127_171255.jpg",
       "car_name": "Maruti Suzuki Ciaz",
-      "price": "2300",
-      "extra_km": "11",
-      "extra_hours": "350",
-      "night_charges": "250",
-      "out_station": "13",
+      "price": "2400",
+      "extra_km": "12",
+      "extra_hours": "150",
+      "night_charges": "300",
+      "out_station": "12",
       "available": true,
       "id": 2
+    },
+    {
+      "image_url": "https://www.motorbeam.com/wp-content/uploads/2020-Hyundai-Verna-3-428x260.jpg",
+      "car_name": "Hyundai Verna",
+      "price": "2800",
+      "extra_km": "14",
+      "extra_hours": "200",
+      "night_charges": "300",
+      "out_station": "14",
+      "available": true,
+      "id": 3
+    },
+    {
+      "image_url": "https://www.cartoq.com/wp-content/uploads/2022/06/ertiga-mod-featured.jpg",
+      "car_name": "Maruti Ertiga",
+      "price": "2600",
+      "extra_km": "13",
+      "extra_hours": "160",
+      "night_charges": "300",
+      "out_station": "13",
+      "available": true,
+      "id": 4
+    },
+    {
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjEz5dZ6usVgmvvtwfJOjJh_rz84oFjLHnRw&usqp=CAU",
+      "car_name": "Kia Carens",
+      "price": "2800",
+      "extra_km": "14",
+      "extra_hours": "170",
+      "night_charges": "300",
+      "out_station": "14",
+      "available": true,
+      "id": 5
     }
   ],
   "luxury_taxi": [
